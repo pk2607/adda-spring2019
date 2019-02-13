@@ -37,6 +37,10 @@ p.special {
   font-style: italic;
 }
 
+.caps {
+  text-transform: uppercase;
+}
+
 #highlight {
   background-color: white
 }
