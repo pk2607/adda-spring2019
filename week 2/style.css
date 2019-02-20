@@ -1,18 +1,18 @@
 body {
-  background-color: #DAF7A6;
-  font-family: “Amatic SC”, cursive;
+  background-color: #B7D3F5;
+  font-family: 'Amatic SC', cursive;
   padding: 15px;
-  font-size: 18px;
-  color: #5A8D10;
+  font-size: 24px;
+  color: #5B9CEC;
 }
 
 h1, h3 {
-  color: #1A66C4;
+  color: #2D82EC;
 }
 
 h1 {
-  font-family: “Staatliches”, cursive;
-  font-size: 24px;
+  font-family: 'Staatliches', cursive;
+  font-size: 30px;
 }
 
 img {
