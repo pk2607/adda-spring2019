@@ -1,0 +1,21 @@
+body {
+  background-color: #DAF7A6;
+  font-family: “Amatic SC”, cursive;
+  padding: 15px;
+  font-size: 18px;
+  color: #5A8D10;
+}
+
+h1, h3 {
+  color: #1A66C4;
+}
+
+h1 {
+  font-family: “Staatliches”, cursive;
+  font-size: 24px;
+}
+
+img {
+  width: 150px;
+  border-radius: 100%;
+}
