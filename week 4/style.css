@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  /* Reminder: border-box means that the padding and border are included in the width and height */
+  background-image: url(https://images.ecosia.org/H02Zwpx8_qjmWGJjGSCDWIDFmuc=/0x390/smart/http%3A%2F%2F3.bp.blogspot.com%2F-X46tAue8GeI%2FUh9wIiRiHwI%2FAAAAAAAAFSY%2FgEl-4MwHQHU%2Fs1600%2FBackground-Html51.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /**/
+}
+
+#container {
+  width: 800px;
+  /* Auto margins value centers the div element */
+  margin: 0 auto;
+}
+
+header {
+  background-color: #ccccff;
+  height: 100px;
+  padding: 20px;
+}
+
+aside {
+  background-color: #cce6ff;
+  height: 500px;
+  width: 25%;
+  padding: 20px;
+  float: left;
+}
+
+main {
+  background-color: #e6ffff;
+  height: 500px;
+  width: 75%;
+  padding: 20px;
+  float: right;
+}
+
+footer {
+  background-color: #ffffcc;
+  height: ;
+  padding: 20px;
+  clear: both;
+}
