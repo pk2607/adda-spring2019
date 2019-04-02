@@ -1,0 +1,33 @@
+/* add bart as the background image to the page */
+body {
+  background-image: url("./images/bart.png");
+  background-position: right;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin: 0;
+  /*text-align: center;*/
+}
+/* make bart be on the right hand side of the page */
+/* he shouldn't move when the page is scrolled */
+
+/* make the krusty image the packground of the logo */
+#logo {
+  background-image: url("./images/krusty.gif");
+  width: 500px;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+  margin: auto;
+}
+/* give the logo div some width and height */
+/* center the logo in the page */
+
+/* make the hello div stretch across the whole page */
+.hello {
+  width: 100%;
+  height: 200px;
+  background-image: url("./images/hello.gif");
+}
+/* give the div some height, otherwise you won't see it because there is no content */
+/* make the hello gif the background image, make it tile across the page */

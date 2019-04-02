@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  flex: .5;
+}
+
+.search {
+  flex: 1;
+}

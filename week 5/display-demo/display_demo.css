@@ -1,0 +1,19 @@
+div {
+    background: #eee;
+    border: .125em solid;
+    margin-bottom: .5em;
+    padding: .5em;
+    width: 75%;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.inline-block {
+  display: inline-block;
+}

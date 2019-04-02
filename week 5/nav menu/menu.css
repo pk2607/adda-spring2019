@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: #eee;
+  font-family: "Karla", sans-serif;
+}
+
+nav ul {
+  /* This removes the bullet points */
+  list-style: none;
+  text-align: center;
+}
+
+nav li {/* SWITCH DISPLAY VALUE TO INLINE-BLOCK TO MAKE THE MENU HORIZONTAL */
+  background-color: #B7D3F5;
+  display: inline-block;
+  font-size: 20px;
+  width: 150px;
+  line-height: 2em;
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+.container {
+  text-color: #295B98;
+}
+
+nav a {
+  /* This removes the underline beneath hyperlinks */
+  text-decoration: none;
+}
